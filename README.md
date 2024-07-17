@@ -19,7 +19,8 @@ Ensure you have a basic understanding of HTML, CSS, and JavaScript.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/dark-theme-css.git
+    git clone [https://github.com/yourusername/dark-theme-css.git]
+    (https://github.com/viktorilie/DarkThemeCss)
     cd dark-theme-css
     ```
 
